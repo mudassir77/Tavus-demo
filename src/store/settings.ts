@@ -124,8 +124,8 @@ const getInitialSettings = (): Settings => {
   return {
     language: "en",
     interruptSensitivity: "low", // Default to low for training scenarios
-    persona: "p2fbd605",
-    replica: "rfb51183fe",
+    persona: "p27be05d9881",
+    replica: "rb17cf590e15",
   };
 };
 
