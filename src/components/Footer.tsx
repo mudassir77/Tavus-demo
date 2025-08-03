@@ -1,5 +1,3 @@
-import { GitFork, ExternalLink } from "lucide-react";
-
 export const Footer = () => {
   return (
     <footer className="flex w-full items-center justify-between gap-4">
